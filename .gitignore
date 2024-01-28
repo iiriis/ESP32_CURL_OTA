@@ -1,3 +1,9 @@
+# General
+.vscode
+.git
+.pio
+
+
 # Prerequisites
 *.d
 
